@@ -81,7 +81,7 @@ Each record contains the following features:
 
 ---
 
-## ✅ Final Evaluation Metrics
+##  Final Evaluation Metrics
 
 | Model                          | Accuracy | Precision | Recall | F1 Score |
 |-------------------------------|----------|-----------|--------|----------|
@@ -92,7 +92,7 @@ Each record contains the following features:
 
 ---
 
-## 🩺 Real-World Recommendation
+##  Real-World Recommendation
 
 > In stroke prediction, **recall is far more important than raw accuracy**. False negatives (missed stroke cases) are far more dangerous than false positives.  
 > 
